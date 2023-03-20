@@ -1,0 +1,12 @@
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\obj\Debug\Lap2_BaiTap.csproj.AssemblyReference.cache
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\obj\Debug\Lap2_BaiTap.csproj.SuggestedBindingRedirects.cache
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\obj\Debug\Lap2_BaiTap.Properties.Resources.resources
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\obj\Debug\Lap2_BaiTap.csproj.GenerateResource.cache
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\obj\Debug\Lap2_BaiTap.csproj.CoreCompileInputs.cache
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\obj\Debug\Lap2_BaiTap.frmGiaoVien.resources
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\obj\Debug\Lap2_BaiTap.frmTBGiaoVien.resources
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\bin\Debug\Lap2_BaiTap.exe.config
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\bin\Debug\Lap2_BaiTap.exe
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\bin\Debug\Lap2_BaiTap.pdb
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\obj\Debug\Lap2_BaiTap.exe
+D:\HocTap\ứng Dụng Desktop\Lap2_BaiTap\Lap2_BaiTap\obj\Debug\Lap2_BaiTap.pdb

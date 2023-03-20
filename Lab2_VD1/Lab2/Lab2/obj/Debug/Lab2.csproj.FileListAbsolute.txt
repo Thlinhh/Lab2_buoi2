@@ -1,0 +1,21 @@
+Z:\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+Z:\Lab2\Lab2\obj\Debug\Lab2.frmTrungTam.resources
+Z:\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+Z:\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+Z:\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+Z:\Lab2\Lab2\bin\Debug\Lab2.exe.config
+Z:\Lab2\Lab2\bin\Debug\Lab2.exe
+Z:\Lab2\Lab2\bin\Debug\Lab2.pdb
+Z:\Lab2\Lab2\obj\Debug\Lab2.exe
+Z:\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\obj\Debug\Lab2.frmTrungTam.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
